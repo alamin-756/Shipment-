@@ -9,5 +9,5 @@ public abstract class employee {
         this.name = name;
     }
 
-    public abstract void display();
+
 }

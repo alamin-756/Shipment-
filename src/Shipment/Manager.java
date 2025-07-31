@@ -8,7 +8,5 @@ public class Manager extends employee {
         this.role = role;
     }
 
-    public void display() {
-        System.out.println("Manager -> id: " + id + ", name: " + name + ", role: " + role);
-    }
+
 }

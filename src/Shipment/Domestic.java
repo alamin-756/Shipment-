@@ -12,7 +12,5 @@ public class Domestic extends ShipMent {
         System.out.println("Domestic Shipment -> shipid: " + shipid + ", weight: " + weight + ", charge: " + charges + ", region: " + region);
     }
 
-    public Double calculatecharge() {
-        return charges * weight;
-    }
+
 }
