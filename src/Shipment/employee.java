@@ -8,6 +8,5 @@ public abstract class employee {
         this.id = id;
         this.name = name;
     }
-
-
+public abstract void display();
 }
